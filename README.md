@@ -1,1 +1,1 @@
-# mayb.China-province-citys-town
+# 中国省、市、县数据，包括省市县的编号、区号、拼音、拼音首字母、拼音第一个字母
